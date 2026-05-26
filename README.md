@@ -68,8 +68,3 @@ Thus the polar pattern and the gain of a waveguide horn antenna and parabolicant
 Beamwidth of horn antenna :
 
 Beamwidth of parabolic antenna: 20°
-Thus the polar pattern and the gain of a waveguide horn antenna and parabolicantenna was measured and plotted.
-
-Beamwidth of horn antenna :
-
-Beamwidth of parabolic antenna:
