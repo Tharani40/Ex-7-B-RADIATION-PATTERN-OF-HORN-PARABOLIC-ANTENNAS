@@ -1,3 +1,5 @@
+## NAME: THARANI C
+## REG NO: 212224060282
 # Ex-7-B-RADIATION-PATTERN-OF-HORN-PARABOLIC-ANTENNAS
 ## Aim:
 To measure the polar pattern and the gain of a waveguide horn antenna and parabolic antenna.
@@ -41,6 +43,7 @@ the same setup can be used for other frequency of operation.
 <img width="638" height="177" alt="image" src="https://github.com/user-attachments/assets/8bbae29d-7cc3-43a4-8f52-57f76b088dab" />
 
 ## TABULATION:
+<img width="684" height="870" alt="image" src="https://github.com/user-attachments/assets/2341abd9-461b-4c48-80c4-2844efcbc6af" />
 
 ### HORN ANTENNA
 
@@ -50,17 +53,21 @@ Beam current :
 
 ### PARABOLICANTENNA
 
-Beam voltage :
+Beam voltage :235 V
 
-Beam current :
+Beam current :164 mV
 
-Repeller voltage :
+Repeller voltage : 42 V
 
-~~~
-V1 : 
-~~~
+## GRAPH:
+<img width="700" height="935" alt="image" src="https://github.com/user-attachments/assets/23ff6ffd-54c4-4a9e-8aab-1e38e026b27c" />
+
 ## RESULT:
+Thus the polar pattern and the gain of a waveguide horn antenna and parabolicantenna was measured and plotted.
 
+Beamwidth of horn antenna :
+
+Beamwidth of parabolic antenna: 20°
 Thus the polar pattern and the gain of a waveguide horn antenna and parabolicantenna was measured and plotted.
 
 Beamwidth of horn antenna :
